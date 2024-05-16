@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/jacobs/Documents/Unreal Projects/TalesOfPigmalia/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+				"/Users/jacobs/Documents/Unreal Projects/TalesOfPigmalia/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/jacobs/Documents/Unreal Projects/TalesOfPigmalia/Content/__GroupContent/Levels/Main_Menu.umap",
+				"/Users/jacobs/Documents/Unreal Projects/TalesOfPigmalia/Content/__GroupContent/Blueprints/UI/consoleDisplayL.uasset"
 			]
 		}
 	]
